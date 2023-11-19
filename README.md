@@ -17,4 +17,4 @@ The CNN model comprises multiple convolutional and pooling layers, followed by d
 
 ## Results
 
-Explore the results.png for training history plots, evaluation metrics, and sample predictions to assess the model's performance.
+Explore the "results.png" for training history plots, evaluation metrics, and sample predictions to assess the model's performance.
