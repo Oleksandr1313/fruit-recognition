@@ -18,3 +18,10 @@ The CNN model comprises multiple convolutional and pooling layers, followed by d
 ## Results
 
 Explore the "results.png" for training history plots, evaluation metrics, and sample predictions to assess the model's performance.
+
+
+## Data Source
+
+The fruit images dataset used in this project is sourced from the official Kaggle website. The dataset, known as "Fruits 360," is available at [Kaggle - Fruits 360 Dataset](https://www.kaggle.com/moltean/fruits). It includes a diverse collection of fruit images for various machine learning and computer vision applications.
+
+Ensure compliance with Kaggle's terms of use and licensing for the dataset.
